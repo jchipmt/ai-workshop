@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Test coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# AI
+.kiro
