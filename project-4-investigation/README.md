@@ -1,5 +1,7 @@
 # Project 4: Investigation
 
+![Lunar Module](./lunar_module.jpg)
+
 ## Goal
 
 You've been dropped into a codebase you've never seen before — the Apollo 11 Lunar Module guidance computer source code. This is real AGC (Apollo Guidance Computer) assembly, written in the 1960s, that flew humans to the Moon.
